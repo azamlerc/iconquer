@@ -1,4 +1,4 @@
-# iConquer Reborn --- Product & Engineering Plan (v2)
+# iConquer Reborn --- Product & Engineering Plan
 
 *A modern resurrection of the classic 2002 Mac OS X strategy game with
 multi‑agent AI simulation*

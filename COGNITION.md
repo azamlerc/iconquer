@@ -1,4 +1,5 @@
-# iConquer Reborn – Addendum: Agent Networks, Cognition Fabric & Model-Agnostic Agents
+# Addendum: Agent Networks, Cognition Fabric & Model-Agnostic Agents
+
 ## Internet of Cognition Prototype Extension
 
 This document is a **sidecar addendum** to the main *iConquer Reborn Game Specification*.  
