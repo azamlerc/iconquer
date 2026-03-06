@@ -39,8 +39,7 @@ Use it to understand original game mechanics, turn flow, map structures, and pla
 - Prefer small reviewable changes.
 - Do not overengineer.
 - Do not add large dependencies unless clearly justified.
-- Current cognition demo target: 3 agents, 5 territories, 8–10 turns.
-
+-
 ## Key Architecture
 - Agent Personality Layer: game role, temperament, and strategy style
 - Model Provider Adapter Layer: OpenAI, Anthropic, or local model backends

@@ -14,8 +14,8 @@ The goal is to illustrate the concept of **distributed intelligence**, inspired 
 
 The game world consists of:
 
-- 3 AI-controlled agents
-- 5 territories
+- 6 players
+- 42 countries in the default world map
 - turn-based actions
 - alliances and diplomacy
 
