@@ -1,0 +1,7 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "iConquer Monde (HD)";
+CFBundleShortVersionString = "iConquer World (HD) version 4.0";
+CFBundleGetInfoString = "iConquer World (HD) version 4.0, Copyright (c) 2002-2010 KavaSoft.";
+NSHumanReadableCopyright = "Copyright (c) 2002-2010 KavaSoft.";
+ICComments = "Une version plus grande de la carte livrée avec le jeu.";

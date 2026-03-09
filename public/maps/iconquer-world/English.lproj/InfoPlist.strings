@@ -1,0 +1,7 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "iConquer World (HD)";
+CFBundleShortVersionString = "iConquer World (HD) version 4.0";
+CFBundleGetInfoString = "iConquer World (HD) version 4.0, Copyright (c) 2002-2010 KavaSoft.";
+NSHumanReadableCopyright = "Copyright (c) 2002-2010 KavaSoft.";
+ICComments = "The default iConquer world map, now in full HD.";

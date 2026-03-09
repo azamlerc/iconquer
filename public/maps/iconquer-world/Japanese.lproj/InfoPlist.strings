@@ -1,0 +1,7 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "iConquer世界 (HD)";
+CFBundleShortVersionString = "iConquer世界 (HD) version 4.0";
+CFBundleGetInfoString = "iConquer世界 (HD) バージョン 4.0, Copyright (c) 2002-2010 KavaSoft.";
+NSHumanReadableCopyright = "Copyright (c) 2002-2010 KavaSoft.";
+ICComments = "シネマディスプレイ対応大きい地図。";

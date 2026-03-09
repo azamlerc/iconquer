@@ -1,0 +1,74 @@
+{
+  "North America": {
+    "armies": 5,
+    "countries": [
+      "Alaska",
+      "Alberta",
+      "Central America",
+      "Eastern United States",
+      "Greenland",
+      "Northwest Territories",
+      "Ontario",
+      "Quebec",
+      "Western United States"
+    ]
+  },
+  "South America": {
+    "armies": 2,
+    "countries": [
+      "Argentina",
+      "Brazil",
+      "Peru",
+      "Venezuela"
+    ]
+  },
+  "Asia": {
+    "armies": 7,
+    "countries": [
+      "China",
+      "India",
+      "Irkutsk",
+      "Japan",
+      "Kamchatka",
+      "Kazakstan",
+      "Middle East",
+      "Mongolia",
+      "Siam",
+      "Siberia",
+      "Ural",
+      "Yakutia"
+    ]
+  },
+  "Australia": {
+    "armies": 2,
+    "countries": [
+      "Eastern Australia",
+      "Indonesia",
+      "New Guinea",
+      "Western Australia"
+    ]
+  },
+  "Europe": {
+    "armies": 5,
+    "countries": [
+      "Iceland",
+      "Northern Europe",
+      "Scandinavia",
+      "Southern Europe",
+      "United Kingdom",
+      "Western Europe",
+      "Russia"
+    ]
+  },
+  "Africa": {
+    "armies": 3,
+    "countries": [
+      "Congo",
+      "East Africa",
+      "Egypt",
+      "Madagascar",
+      "North Africa",
+      "South Africa"
+    ]
+  }
+}

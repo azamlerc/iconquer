@@ -1,0 +1,7 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "iConquer Wereldkaart (HD)";
+CFBundleShortVersionString = "iConquer Wereldkaart (HD) version 4.0";
+CFBundleGetInfoString = "iConquer Wereldkaart (HD) version 4.0, Copyright (c) 2002-2010 KavaSoft.";
+NSHumanReadableCopyright = "Copyright (c) 2002-2010 KavaSoft.";
+ICComments = "Een grotere versie als de standaard wereldkaart, speciaal geschikt voor het Apple Cinema HD Display.";

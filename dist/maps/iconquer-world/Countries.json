@@ -1,0 +1,510 @@
+{
+  "Congo": {
+    "y": 260,
+    "neighbors": [
+      "North Africa",
+      "East Africa",
+      "South Africa"
+    ],
+    "dotOffsetY": 6,
+    "x": 862,
+    "dotOffsetX": 5
+  },
+  "Argentina": {
+    "y": 8,
+    "neighbors": [
+      "Peru",
+      "Brazil"
+    ],
+    "dotOffsetY": 27,
+    "x": 471,
+    "dotOffsetX": 0
+  },
+  "Peru": {
+    "y": 211,
+    "neighbors": [
+      "Venezuela",
+      "Brazil",
+      "Argentina"
+    ],
+    "dotOffsetY": 0,
+    "x": 448,
+    "dotOffsetX": -20
+  },
+  "Japan": {
+    "y": 511,
+    "neighbors": [
+      "Mongolia",
+      "Kamchatka"
+    ],
+    "dotOffsetY": -13,
+    "x": 1476,
+    "dotOffsetX": 7
+  },
+  "Ontario": {
+    "y": 618,
+    "neighbors": [
+      "Northwest Territories",
+      "Greenland",
+      "Quebec",
+      "Eastern United States",
+      "Western United States",
+      "Alberta"
+    ],
+    "dotOffsetY": 17,
+    "x": 329,
+    "dotOffsetX": -18
+  },
+  "Western Europe": {
+    "y": 548,
+    "neighbors": [
+      "United Kingdom",
+      "Northern Europe",
+      "Southern Europe",
+      "North Africa"
+    ],
+    "dotOffsetY": 0,
+    "x": 755,
+    "dotOffsetX": -4
+  },
+  "India": {
+    "y": 367,
+    "neighbors": [
+      "Middle East",
+      "Kazakstan",
+      "China",
+      "Siam"
+    ],
+    "dotOffsetY": 8,
+    "x": 1126,
+    "dotOffsetX": 1
+  },
+  "Kamchatka": {
+    "y": 582,
+    "neighbors": [
+      "Yakutia",
+      "Irkutsk",
+      "Mongolia",
+      "Japan",
+      "Alaska"
+    ],
+    "dotOffsetY": 57,
+    "x": 1470,
+    "dotOffsetX": 51
+  },
+  "Brazil": {
+    "x": 495,
+    "dotOffsetY": 27,
+    "height": 127,
+    "y": 178,
+    "dotOffsetX": 13,
+    "width": 118,
+    "neighbors": [
+      "Venezuela",
+      "Peru",
+      "Argentina",
+      "North Africa"
+    ]
+  },
+  "Russia": {
+    "y": 558,
+    "neighbors": [
+      "Scandinavia",
+      "Northern Europe",
+      "Southern Europe",
+      "Middle East",
+      "Kazakstan",
+      "Ural"
+    ],
+    "dotOffsetY": 2,
+    "x": 933,
+    "dotOffsetX": -40
+  },
+  "Middle East": {
+    "y": 408,
+    "neighbors": [
+      "Russia",
+      "Kazakstan",
+      "India",
+      "East Africa",
+      "Egypt",
+      "Southern Europe"
+    ],
+    "dotOffsetY": 0,
+    "x": 943,
+    "dotOffsetX": 0
+  },
+  "United Kingdom": {
+    "y": 629,
+    "neighbors": [
+      "Iceland",
+      "Scandinavia",
+      "Northern Europe",
+      "Western Europe"
+    ],
+    "dotOffsetY": -4,
+    "x": 751,
+    "dotOffsetX": 0
+  },
+  "Mongolia": {
+    "y": 527,
+    "neighbors": [
+      "Siberia",
+      "Irkutsk",
+      "Kamchatka",
+      "Japan",
+      "China"
+    ],
+    "dotOffsetY": 12,
+    "x": 1297,
+    "dotOffsetX": 20
+  },
+  "Siberia": {
+    "y": 628,
+    "neighbors": [
+      "Ural",
+      "China",
+      "Mongolia",
+      "Irkutsk",
+      "Yakutia"
+    ],
+    "dotOffsetY": -5,
+    "x": 1190,
+    "dotOffsetX": 6
+  },
+  "Alaska": {
+    "x": 8,
+    "dotOffsetY": 13,
+    "height": 76,
+    "y": 696,
+    "dotOffsetX": 0,
+    "width": 101,
+    "neighbors": [
+      "Northwest Territories",
+      "Alberta",
+      "Kamchatka"
+    ]
+  },
+  "Eastern United States": {
+    "y": 518,
+    "neighbors": [
+      "Central America",
+      "Western United States",
+      "Ontario",
+      "Quebec"
+    ],
+    "dotOffsetY": -2,
+    "x": 331,
+    "dotOffsetX": -5
+  },
+  "Madagascar": {
+    "y": 180,
+    "neighbors": [
+      "East Africa",
+      "South Africa"
+    ],
+    "dotOffsetY": -5,
+    "x": 1034,
+    "dotOffsetX": 9
+  },
+  "Scandinavia": {
+    "y": 665,
+    "neighbors": [
+      "Iceland",
+      "United Kingdom",
+      "Northern Europe",
+      "Russia"
+    ],
+    "dotOffsetY": -6,
+    "x": 829,
+    "dotOffsetX": -19
+  },
+  "Alberta": {
+    "y": 662,
+    "neighbors": [
+      "Alaska",
+      "Northwest Territories",
+      "Ontario",
+      "Western United States"
+    ],
+    "dotOffsetY": 0,
+    "x": 165,
+    "dotOffsetX": 19
+  },
+  "Indonesia": {
+    "y": 270,
+    "neighbors": [
+      "Siam",
+      "Western Australia",
+      "New Guinea"
+    ],
+    "dotOffsetY": -22,
+    "x": 1310,
+    "dotOffsetX": 13
+  },
+  "Western United States": {
+    "y": 557,
+    "neighbors": [
+      "Alberta",
+      "Ontario",
+      "Eastern United States",
+      "Central America"
+    ],
+    "dotOffsetY": 3,
+    "x": 224,
+    "dotOffsetX": 2
+  },
+  "Northwest Territories": {
+    "y": 744,
+    "neighbors": [
+      "Alaska",
+      "Alberta",
+      "Ontario",
+      "Greenland"
+    ],
+    "dotOffsetY": -41,
+    "x": 156,
+    "dotOffsetX": 3
+  },
+  "China": {
+    "y": 438,
+    "neighbors": [
+      "Mongolia",
+      "Siberia",
+      "Ural",
+      "Kazakstan",
+      "India",
+      "Siam"
+    ],
+    "dotOffsetY": 5,
+    "x": 1198,
+    "dotOffsetX": 6
+  },
+  "Southern Europe": {
+    "y": 545,
+    "neighbors": [
+      "Western Europe",
+      "Northern Europe",
+      "Russia",
+      "Middle East",
+      "Egypt",
+      "North Africa"
+    ],
+    "dotOffsetY": 14,
+    "x": 843,
+    "dotOffsetX": 14
+  },
+  "Egypt": {
+    "y": 456,
+    "neighbors": [
+      "Southern Europe",
+      "Middle East",
+      "East Africa",
+      "North Africa"
+    ],
+    "dotOffsetY": 4,
+    "x": 857,
+    "dotOffsetX": -3
+  },
+  "Western Australia": {
+    "y": 119,
+    "neighbors": [
+      "Indonesia",
+      "New Guinea",
+      "Eastern Australia"
+    ],
+    "dotOffsetY": 0,
+    "x": 1409,
+    "dotOffsetX": 4
+  },
+  "East Africa": {
+    "y": 270,
+    "neighbors": [
+      "Egypt",
+      "North Africa",
+      "Congo",
+      "South Africa",
+      "Madagascar",
+      "Middle East"
+    ],
+    "dotOffsetY": -2,
+    "x": 931,
+    "dotOffsetX": 1
+  },
+  "North Africa": {
+    "y": 314,
+    "neighbors": [
+      "Western Europe",
+      "Southern Europe",
+      "Egypt",
+      "East Africa",
+      "Congo",
+      "Brazil"
+    ],
+    "dotOffsetY": 4,
+    "x": 711,
+    "dotOffsetX": -10
+  },
+  "Eastern Australia": {
+    "y": 61,
+    "neighbors": [
+      "Western Australia",
+      "New Guinea"
+    ],
+    "dotOffsetY": -4,
+    "x": 1502,
+    "dotOffsetX": 9
+  },
+  "Greenland": {
+    "y": 731,
+    "neighbors": [
+      "Northwest Territories",
+      "Ontario",
+      "Quebec",
+      "Iceland"
+    ],
+    "dotOffsetY": 8,
+    "x": 272,
+    "dotOffsetX": 108
+  },
+  "Quebec": {
+    "y": 626,
+    "neighbors": [
+      "Eastern United States",
+      "Ontario",
+      "Greenland"
+    ],
+    "dotOffsetY": 4,
+    "x": 468,
+    "dotOffsetX": -20
+  },
+  "Irkutsk": {
+    "y": 621,
+    "neighbors": [
+      "Siberia",
+      "Yakutia",
+      "Kamchatka",
+      "Mongolia"
+    ],
+    "dotOffsetY": 6,
+    "x": 1329,
+    "dotOffsetX": -6
+  },
+  "Iceland": {
+    "y": 711,
+    "neighbors": [
+      "Greenland",
+      "Scandinavia",
+      "United Kingdom"
+    ],
+    "dotOffsetY": -9,
+    "x": 717,
+    "dotOffsetX": 0
+  },
+  "New Guinea": {
+    "y": 264,
+    "neighbors": [
+      "Indonesia",
+      "Eastern Australia",
+      "Western Australia"
+    ],
+    "dotOffsetY": 11,
+    "x": 1477,
+    "dotOffsetX": -1
+  },
+  "Central America": {
+    "x": 268,
+    "dotOffsetY": 5,
+    "height": 83,
+    "y": 413,
+    "dotOffsetX": -24,
+    "width": 147,
+    "neighbors": [
+      "Eastern United States",
+      "Western United States",
+      "Venezuela"
+    ]
+  },
+  "Siam": {
+    "y": 343,
+    "neighbors": [
+      "India",
+      "China",
+      "Indonesia"
+    ],
+    "dotOffsetY": 17,
+    "x": 1293,
+    "dotOffsetX": 2
+  },
+  "Kazakstan": {
+    "y": 513,
+    "neighbors": [
+      "Russia",
+      "Ural",
+      "China",
+      "India",
+      "Middle East"
+    ],
+    "dotOffsetY": 5,
+    "x": 1069,
+    "dotOffsetX": -3
+  },
+  "Northern Europe": {
+    "y": 620,
+    "neighbors": [
+      "United Kingdom",
+      "Scandinavia",
+      "Russia",
+      "Southern Europe",
+      "Western Europe"
+    ],
+    "dotOffsetY": -10,
+    "x": 827,
+    "dotOffsetX": -7
+  },
+  "Ural": {
+    "y": 614,
+    "neighbors": [
+      "Russia",
+      "Kazakstan",
+      "China",
+      "Siberia"
+    ],
+    "dotOffsetY": 2,
+    "x": 1034,
+    "dotOffsetX": -9
+  },
+  "Venezuela": {
+    "y": 372,
+    "neighbors": [
+      "Central America",
+      "Peru",
+      "Brazil"
+    ],
+    "dotOffsetY": 4,
+    "x": 458,
+    "dotOffsetX": -11
+  },
+  "South Africa": {
+    "y": 121,
+    "neighbors": [
+      "Congo",
+      "East Africa",
+      "Madagascar"
+    ],
+    "dotOffsetY": -10,
+    "x": 864,
+    "dotOffsetX": -13
+  },
+  "Yakutia": {
+    "y": 687,
+    "neighbors": [
+      "Siberia",
+      "Irkutsk",
+      "Kamchatka"
+    ],
+    "dotOffsetY": -6,
+    "x": 1371,
+    "dotOffsetX": -36
+  }
+}

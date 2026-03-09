@@ -1,0 +1,6 @@
+﻿/* Localized versions of Info.plist keys */
+
+CFBundleName = "Mondo iConquer (HD)";
+CFBundleShortVersionString = "Mondo iConquer (HD) versione 4.0";
+CFBundleGetInfoString = "Mondo iConquer (HD) versione 4.0, Copyright (c) 2002-2010 KavaSoft.";
+NSHumanReadableCopyright = "Copyright (c) 2002-2010 KavaSoft.";

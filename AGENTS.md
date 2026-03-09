@@ -22,7 +22,9 @@ Before making changes, read:
 
 ## Legacy Reference Code
 The original Objective-C implementation is in:
-- ../iconquer-original/
+- ../kavasoft/iconquer/
+
+Further details of the app structure are in ORIGINAL.md
 
 Treat it as reference only.
 Do not modify legacy code.
